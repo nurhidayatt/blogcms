@@ -10,4 +10,4 @@ Simple blog using php and mysql > http://hidayat.id/ feel free to ask
 * Delete Artikel
 
 ## Dashboard
-![Image of Yaktocat](https://github.com/nurhidayatt/blogcms/blob/master/images/dashboard.png)
+![Image of Yaktocat]()
